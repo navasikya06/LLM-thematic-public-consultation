@@ -3,7 +3,7 @@
 This repo has 3 main notebooks:
 - Scraping submissions from the government website: https://consult.industry.gov.au/supporting-responsible-ai/submission/list
 - Filtering for organization submissions and extracting the relevant text by regex
-- Uses gpt-4o mini to do inductive thematic analysis of the relevant text following Braun and Clarke's framework
+- Using gpt-4o mini to do inductive thematic analysis of the relevant text following Braun and Clarke's framework
 
 ![image](https://github.com/user-attachments/assets/7733b540-d49c-4c86-a377-3971bf735335)
 
